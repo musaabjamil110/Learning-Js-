@@ -2,7 +2,6 @@ function addTwoNumber(num1, num2){
     console.log(num1+num2);
 }
 
-// addTwoNumber(22,11)
 
 function login(user){
     if(!user){
@@ -15,13 +14,10 @@ function login(user){
     
 }
 
-// console.log(login("musaaab"))
-
 function calculateCart(...num1){
     return num1;
 }
 
-// console.log(calculateCart(200,225,400,125))
 
 const user = {
     username: "musaab",
