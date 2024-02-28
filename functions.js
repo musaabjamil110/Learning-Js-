@@ -1,3 +1,4 @@
+// Our next step is to configure the maps
 function addTwoNumber(num1, num2){
     console.log(num1+num2);
 }
